@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: drinks-it/deployer:latest
+          tags: drinksit/deployer:latest
